@@ -2,3 +2,5 @@
 .vscode/
 gtsrb/
 training_folder/
+__pycache__/
+*.pyc
